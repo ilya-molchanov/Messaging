@@ -1,0 +1,100 @@
+2018/05/07 21:44:40.641 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2018/05/07 21:44:40.656 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2018/05/07 21:44:41.099 Running as a console application, creating the console host. 
+2018/05/07 21:44:41.099 Starting up as a console application 
+2018/05/07 21:44:41.099 The MainServer Service service is now running, press Control+C to exit. 
+2018/05/07 21:47:43.770 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2018/05/07 21:47:43.784 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2018/05/07 21:47:44.180 Running as a console application, creating the console host. 
+2018/05/07 21:47:44.180 Starting up as a console application 
+2018/05/07 21:47:44.180 The MainServer Service service is now running, press Control+C to exit. 
+2018/05/07 22:00:48.413 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2018/05/07 22:00:48.428 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2018/05/07 22:01:09.832 Running as a console application, creating the console host. 
+2018/05/07 22:01:09.835 Starting up as a console application 
+2018/05/07 22:01:09.835 The MainServer Service service is now running, press Control+C to exit. 
+2018/05/07 22:02:32.946 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2018/05/07 22:02:32.962 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2018/05/07 22:02:33.911 Running as a console application, creating the console host. 
+2018/05/07 22:02:33.915 Starting up as a console application 
+2018/05/07 22:02:33.915 The MainServer Service service is now running, press Control+C to exit. 
+2019/04/11 18:21:02.209 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 18:21:02.223 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 18:21:24.252 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 18:21:24.269 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 18:25:08.520 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 18:25:08.531 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 18:26:40.487 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 18:26:40.498 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 18:27:48.946 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 18:27:48.946 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 18:30:05.196 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 18:30:05.207 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 19:18:38.796 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 19:18:38.796 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 19:18:39.716 Running as a console application, creating the console host. 
+2019/04/11 19:18:39.716 Starting up as a console application 
+2019/04/11 19:18:39.716 The MainServer Service service is now running, press Control+C to exit. 
+2019/04/11 19:18:52.849 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 19:18:52.860 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 19:18:53.286 Running as a console application, creating the console host. 
+2019/04/11 19:18:53.286 Starting up as a console application 
+2019/04/11 19:18:53.286 The MainServer Service service is now running, press Control+C to exit. 
+2019/04/11 19:20:07.164 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 19:20:07.175 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 19:20:07.567 Running as a console application, creating the console host. 
+2019/04/11 19:20:07.567 Starting up as a console application 
+2019/04/11 19:20:07.567 The MainServer Service service is now running, press Control+C to exit. 
+2019/04/11 19:20:27.744 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 19:20:27.760 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 19:21:01.005 Running as a console application, creating the console host. 
+2019/04/11 19:21:01.005 Starting up as a console application 
+2019/04/11 19:21:01.005 The MainServer Service service is now running, press Control+C to exit. 
+2019/04/11 19:21:36.006 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 19:21:36.017 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 19:21:40.566 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 19:21:40.576 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 19:25:20.231 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 19:25:20.231 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 19:27:01.216 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 19:27:01.216 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 
+2019/04/11 19:27:28.875 Configuration Result:
+[Success] Name MainServer Service
+[Success] ServiceName MainServer Service 
+2019/04/11 19:27:28.893 Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000 

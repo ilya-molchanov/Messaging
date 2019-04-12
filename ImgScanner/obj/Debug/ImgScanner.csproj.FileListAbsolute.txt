@@ -1,0 +1,259 @@
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\ImgScanner.exe.config
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\ImgScanner.exe
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\ImgScanner.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Logger.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.Rendering.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.RtfRendering.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\NLog.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\PdfSharp.Charting.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\PdfSharp.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Topshelf.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Topshelf.NLog.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.presentation.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Logger.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.Rendering.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.RtfRendering.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\NLog.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\PdfSharp.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\PdfSharp.Charting.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Topshelf.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Topshelf.NLog.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.presentation.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.presentation.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\de\PdfSharp.resources.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\obj\Debug\ImgScanner.csproj.CoreCompileInputs.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\obj\Debug\ImgScanner.exe
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\obj\Debug\ImgScanner.pdb
+C:\Users\Note\Desktop\Message Queues\ImgScanner\obj\Debug\ImgScanner.csprojResolveAssemblyReference.cache
+C:\Users\Note\Desktop\Message Queues\ImgScanner\obj\Debug\ImgScanner.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\Message Queues\ImgScanner\obj\Debug\ImgScanner.exe
+C:\Users\Note\Desktop\Message Queues\ImgScanner\obj\Debug\ImgScanner.pdb
+D:\Trainings\Message Queues\ImgScanner\obj\Debug\ImgScanner.csprojResolveAssemblyReference.cache
+D:\Trainings\Message Queues\ImgScanner\obj\Debug\ImgScanner.csproj.CoreCompileInputs.cache
+D:\Trainings\Message Queues\ImgScanner\obj\Debug\ImgScanner.exe
+D:\Trainings\Message Queues\ImgScanner\obj\Debug\ImgScanner.pdb
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\ImgScanner.exe.config
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\ImgScanner.exe
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\ImgScanner.pdb
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Common.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Logger.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Microsoft.ServiceBus.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\MigraDoc.Rendering.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\MigraDoc.RtfRendering.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\NLog.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\PdfSharp.Charting.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\PdfSharp.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Topshelf.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Topshelf.NLog.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\zxing.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\zxing.presentation.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Common.pdb
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Common.dll.config
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Logger.pdb
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Microsoft.ServiceBus.xml
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\MigraDoc.Rendering.xml
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\MigraDoc.RtfRendering.xml
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\NLog.xml
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\PdfSharp.xml
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\PdfSharp.Charting.xml
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Topshelf.xml
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\Topshelf.NLog.xml
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\zxing.pdb
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\zxing.xml
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\zxing.presentation.pdb
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\zxing.presentation.xml
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\de\PdfSharp.resources.dll
+D:\Trainings\Message Queues\ImgScanner\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\ImgScanner.exe.config
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\ImgScanner.exe
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\ImgScanner.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Common.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Logger.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Microsoft.ServiceBus.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.Rendering.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.RtfRendering.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\NLog.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\PdfSharp.Charting.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\PdfSharp.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Topshelf.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Topshelf.NLog.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.presentation.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Common.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Common.dll.config
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Logger.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Microsoft.ServiceBus.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.Rendering.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.RtfRendering.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\NLog.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\PdfSharp.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\PdfSharp.Charting.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Topshelf.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Topshelf.NLog.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.presentation.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.presentation.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\de\PdfSharp.resources.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\obj\Debug\ImgScanner.csprojResolveAssemblyReference.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\obj\Debug\ImgScanner.csproj.CoreCompileInputs.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\obj\Debug\ImgScanner.exe
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ImgScanner\obj\Debug\ImgScanner.pdb
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\ImgScanner.exe.config
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\ImgScanner.exe
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\ImgScanner.pdb
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Common.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Logger.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Microsoft.ServiceBus.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.Rendering.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.RtfRendering.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\NLog.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\PdfSharp.Charting.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\PdfSharp.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Topshelf.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Topshelf.NLog.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.presentation.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Common.pdb
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Common.dll.config
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Logger.pdb
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Microsoft.ServiceBus.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.Rendering.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\MigraDoc.RtfRendering.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\NLog.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\PdfSharp.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\PdfSharp.Charting.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Topshelf.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\Topshelf.NLog.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.pdb
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.presentation.pdb
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\zxing.presentation.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\de\PdfSharp.resources.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\obj\Debug\ImgScanner.csprojResolveAssemblyReference.cache
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\obj\Debug\ImgScanner.csproj.CoreCompileInputs.cache
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\obj\Debug\ImgScanner.exe
+D:\Trainings\Message Queues - part 1 v 2.0\ImgScanner\obj\Debug\ImgScanner.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Common.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Microsoft.ServiceBus.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Common.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Common.dll.config
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Microsoft.ServiceBus.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\obj\Debug\ImgScanner.csprojAssemblyReference.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ImgScanner\obj\Debug\ImgScanner.csproj.CopyComplete
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\ImgScanner.exe.config
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\ImgScanner.exe
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\ImgScanner.pdb
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Common.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Logger.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Microsoft.ServiceBus.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.Rendering.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.RtfRendering.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\NLog.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\PdfSharp.Charting.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\PdfSharp.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Topshelf.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Topshelf.NLog.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.presentation.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Common.pdb
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Common.dll.config
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Logger.pdb
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Logger.dll.config
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.Rendering.xml
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\MigraDoc.RtfRendering.xml
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\NLog.xml
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\PdfSharp.xml
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\PdfSharp.Charting.xml
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Topshelf.xml
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\Topshelf.NLog.xml
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.pdb
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.xml
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.presentation.pdb
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\zxing.presentation.xml
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\de\PdfSharp.resources.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\study\05. Message Queues\Message Queues\ImgScanner\obj\Debug\ImgScanner.csprojAssemblyReference.cache
+D:\study\05. Message Queues\Message Queues\ImgScanner\obj\Debug\ImgScanner.csproj.CoreCompileInputs.cache
+D:\study\05. Message Queues\Message Queues\ImgScanner\obj\Debug\ImgScanner.csproj.CopyComplete
+D:\study\05. Message Queues\Message Queues\ImgScanner\obj\Debug\ImgScanner.exe
+D:\study\05. Message Queues\Message Queues\ImgScanner\obj\Debug\ImgScanner.pdb
+D:\Work\Message Queues\ImgScanner\bin\Debug\ImgScanner.exe.config
+D:\Work\Message Queues\ImgScanner\bin\Debug\ImgScanner.exe
+D:\Work\Message Queues\ImgScanner\bin\Debug\ImgScanner.pdb
+D:\Work\Message Queues\ImgScanner\bin\Debug\Common.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\Logger.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\Microsoft.ServiceBus.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\MigraDoc.Rendering.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\MigraDoc.RtfRendering.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\NLog.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\PdfSharp.Charting.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\PdfSharp.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\Topshelf.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\Topshelf.NLog.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\zxing.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\zxing.presentation.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\Common.pdb
+D:\Work\Message Queues\ImgScanner\bin\Debug\Common.dll.config
+D:\Work\Message Queues\ImgScanner\bin\Debug\Logger.pdb
+D:\Work\Message Queues\ImgScanner\bin\Debug\Logger.dll.config
+D:\Work\Message Queues\ImgScanner\bin\Debug\Microsoft.ServiceBus.xml
+D:\Work\Message Queues\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\Work\Message Queues\ImgScanner\bin\Debug\MigraDoc.Rendering.xml
+D:\Work\Message Queues\ImgScanner\bin\Debug\MigraDoc.RtfRendering.xml
+D:\Work\Message Queues\ImgScanner\bin\Debug\NLog.xml
+D:\Work\Message Queues\ImgScanner\bin\Debug\PdfSharp.xml
+D:\Work\Message Queues\ImgScanner\bin\Debug\PdfSharp.Charting.xml
+D:\Work\Message Queues\ImgScanner\bin\Debug\Topshelf.xml
+D:\Work\Message Queues\ImgScanner\bin\Debug\Topshelf.NLog.xml
+D:\Work\Message Queues\ImgScanner\bin\Debug\zxing.pdb
+D:\Work\Message Queues\ImgScanner\bin\Debug\zxing.xml
+D:\Work\Message Queues\ImgScanner\bin\Debug\zxing.presentation.pdb
+D:\Work\Message Queues\ImgScanner\bin\Debug\zxing.presentation.xml
+D:\Work\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\de\PdfSharp.resources.dll
+D:\Work\Message Queues\ImgScanner\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Work\Message Queues\ImgScanner\obj\Debug\ImgScanner.csprojAssemblyReference.cache
+D:\Work\Message Queues\ImgScanner\obj\Debug\ImgScanner.csproj.CoreCompileInputs.cache
+D:\Work\Message Queues\ImgScanner\obj\Debug\ImgScanner.csproj.CopyComplete
+D:\Work\Message Queues\ImgScanner\obj\Debug\ImgScanner.exe
+D:\Work\Message Queues\ImgScanner\obj\Debug\ImgScanner.pdb

@@ -1,0 +1,56 @@
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\Logger\bin\Debug\Logger.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\Logger\bin\Debug\Logger.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\Logger\bin\Debug\NLog.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\Logger\bin\Debug\NLog.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\Logger\obj\Debug\Logger.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\Logger\obj\Debug\Logger.pdb
+C:\Users\Note\Desktop\Message Queues\Logger\bin\Debug\Logger.dll
+C:\Users\Note\Desktop\Message Queues\Logger\bin\Debug\Logger.pdb
+C:\Users\Note\Desktop\Message Queues\Logger\bin\Debug\NLog.dll
+C:\Users\Note\Desktop\Message Queues\Logger\bin\Debug\NLog.xml
+C:\Users\Note\Desktop\Message Queues\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Note\Desktop\Message Queues\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\Message Queues\Logger\obj\Debug\Logger.csproj.CopyComplete
+C:\Users\Note\Desktop\Message Queues\Logger\obj\Debug\Logger.dll
+C:\Users\Note\Desktop\Message Queues\Logger\obj\Debug\Logger.pdb
+D:\Trainings\Message Queues\Logger\bin\Debug\Logger.dll
+D:\Trainings\Message Queues\Logger\bin\Debug\Logger.pdb
+D:\Trainings\Message Queues\Logger\bin\Debug\NLog.dll
+D:\Trainings\Message Queues\Logger\bin\Debug\NLog.xml
+D:\Trainings\Message Queues\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Trainings\Message Queues\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Trainings\Message Queues\Logger\obj\Debug\Logger.dll
+D:\Trainings\Message Queues\Logger\obj\Debug\Logger.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\Logger\bin\Debug\Logger.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\Logger\bin\Debug\Logger.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\Logger\bin\Debug\NLog.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\Logger\bin\Debug\NLog.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\Logger\obj\Debug\Logger.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\Logger\obj\Debug\Logger.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\Logger\obj\Debug\Logger.csproj.CopyComplete
+D:\study\05. Message Queues\Message Queues\Logger\bin\Debug\Logger.dll
+D:\study\05. Message Queues\Message Queues\Logger\bin\Debug\Logger.pdb
+D:\study\05. Message Queues\Message Queues\Logger\bin\Debug\NLog.dll
+D:\study\05. Message Queues\Message Queues\Logger\bin\Debug\NLog.xml
+D:\study\05. Message Queues\Message Queues\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\study\05. Message Queues\Message Queues\Logger\obj\Debug\Logger.csproj.CopyComplete
+D:\study\05. Message Queues\Message Queues\Logger\obj\Debug\Logger.dll
+D:\study\05. Message Queues\Message Queues\Logger\obj\Debug\Logger.pdb
+D:\study\05. Message Queues\Message Queues\Logger\bin\Debug\Logger.dll.config
+D:\study\05. Message Queues\Message Queues\Logger\bin\Debug\Microsoft.ServiceBus.dll
+D:\study\05. Message Queues\Message Queues\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\Work\Message Queues\Logger\bin\Debug\Logger.dll.config
+D:\Work\Message Queues\Logger\bin\Debug\Logger.dll
+D:\Work\Message Queues\Logger\bin\Debug\Logger.pdb
+D:\Work\Message Queues\Logger\bin\Debug\Microsoft.ServiceBus.dll
+D:\Work\Message Queues\Logger\bin\Debug\NLog.dll
+D:\Work\Message Queues\Logger\bin\Debug\Microsoft.ServiceBus.xml
+D:\Work\Message Queues\Logger\bin\Debug\NLog.xml
+D:\Work\Message Queues\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Work\Message Queues\Logger\obj\Debug\Logger.csproj.CopyComplete
+D:\Work\Message Queues\Logger\obj\Debug\Logger.dll
+D:\Work\Message Queues\Logger\obj\Debug\Logger.pdb

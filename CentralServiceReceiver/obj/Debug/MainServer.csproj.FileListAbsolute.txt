@@ -1,0 +1,110 @@
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Logger.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Microsoft.ServiceBus.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\NLog.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Topshelf.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Topshelf.NLog.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Logger.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Microsoft.ServiceBus.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\NLog.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Topshelf.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Topshelf.NLog.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\obj\Debug\MainServer.csproj.CoreCompileInputs.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Note\Desktop\Message Queues\ConsoleApp1\obj\Debug\MainServer.csprojResolveAssemblyReference.cache
+C:\Users\Note\Desktop\Message Queues\ConsoleApp1\obj\Debug\MainServer.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\Message Queues\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Note\Desktop\Message Queues\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Trainings\Message Queues\ConsoleApp1\obj\Debug\MainServer.csprojResolveAssemblyReference.cache
+D:\Trainings\Message Queues\ConsoleApp1\obj\Debug\MainServer.csproj.CoreCompileInputs.cache
+D:\Trainings\Message Queues\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Trainings\Message Queues\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Common.dll
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Logger.dll
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Microsoft.ServiceBus.dll
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\NLog.dll
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Topshelf.dll
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Topshelf.NLog.dll
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Common.pdb
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Common.dll.config
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Logger.pdb
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Microsoft.ServiceBus.xml
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\NLog.xml
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Topshelf.xml
+D:\Trainings\Message Queues\ConsoleApp1\bin\Debug\Topshelf.NLog.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Common.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Logger.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Microsoft.ServiceBus.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\NLog.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Topshelf.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Topshelf.NLog.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Common.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Common.dll.config
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Logger.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Microsoft.ServiceBus.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\NLog.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Topshelf.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Topshelf.NLog.xml
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\obj\Debug\MainServer.csprojResolveAssemblyReference.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\obj\Debug\MainServer.csproj.CoreCompileInputs.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues - part 1 v 2.0\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Common.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Logger.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Microsoft.ServiceBus.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\NLog.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Topshelf.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Topshelf.NLog.dll
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Common.pdb
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Common.dll.config
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Logger.pdb
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Microsoft.ServiceBus.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\NLog.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Topshelf.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\bin\Debug\Topshelf.NLog.xml
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\obj\Debug\MainServer.csprojResolveAssemblyReference.cache
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\obj\Debug\MainServer.csproj.CoreCompileInputs.cache
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Trainings\Message Queues - part 1 v 2.0\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Common.dll
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Common.pdb
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Common.dll.config
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\obj\Debug\MainServer.csprojAssemblyReference.cache
+D:\Trainings\D2-D3\HomeTasks\05. Message Queues\Message Queues\ConsoleApp1\obj\Debug\MainServer.csproj.CopyComplete
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Common.dll
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Logger.dll
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Microsoft.ServiceBus.dll
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\NLog.dll
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Topshelf.dll
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Topshelf.NLog.dll
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Common.pdb
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Common.dll.config
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Logger.pdb
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\NLog.xml
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Topshelf.xml
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Topshelf.NLog.xml
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\obj\Debug\MainServer.csprojAssemblyReference.cache
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\obj\Debug\MainServer.csproj.CoreCompileInputs.cache
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\obj\Debug\MainServer.csproj.CopyComplete
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\study\05. Message Queues\Message Queues\ConsoleApp1\bin\Debug\Logger.dll.config
