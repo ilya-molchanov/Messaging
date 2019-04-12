@@ -54,3 +54,14 @@ D:\Work\Message Queues\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
 D:\Work\Message Queues\Logger\obj\Debug\Logger.csproj.CopyComplete
 D:\Work\Message Queues\Logger\obj\Debug\Logger.dll
 D:\Work\Message Queues\Logger\obj\Debug\Logger.pdb
+D:\Work\mentoring\Messaging\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Work\mentoring\Messaging\Logger\bin\Debug\Logger.dll.config
+D:\Work\mentoring\Messaging\Logger\bin\Debug\Logger.dll
+D:\Work\mentoring\Messaging\Logger\bin\Debug\Logger.pdb
+D:\Work\mentoring\Messaging\Logger\bin\Debug\Microsoft.ServiceBus.dll
+D:\Work\mentoring\Messaging\Logger\bin\Debug\NLog.dll
+D:\Work\mentoring\Messaging\Logger\bin\Debug\Microsoft.ServiceBus.xml
+D:\Work\mentoring\Messaging\Logger\bin\Debug\NLog.xml
+D:\Work\mentoring\Messaging\Logger\obj\Debug\Logger.csproj.CopyComplete
+D:\Work\mentoring\Messaging\Logger\obj\Debug\Logger.dll
+D:\Work\mentoring\Messaging\Logger\obj\Debug\Logger.pdb

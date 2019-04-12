@@ -257,3 +257,47 @@ D:\Work\Message Queues\ImgScanner\obj\Debug\ImgScanner.csproj.CoreCompileInputs.
 D:\Work\Message Queues\ImgScanner\obj\Debug\ImgScanner.csproj.CopyComplete
 D:\Work\Message Queues\ImgScanner\obj\Debug\ImgScanner.exe
 D:\Work\Message Queues\ImgScanner\obj\Debug\ImgScanner.pdb
+D:\Work\mentoring\Messaging\ImgScanner\obj\Debug\ImgScanner.csprojAssemblyReference.cache
+D:\Work\mentoring\Messaging\ImgScanner\obj\Debug\ImgScanner.csproj.CoreCompileInputs.cache
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\ImgScanner.exe.config
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\ImgScanner.exe
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\ImgScanner.pdb
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Common.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Logger.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Microsoft.ServiceBus.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\MigraDoc.Rendering.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\MigraDoc.RtfRendering.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\NLog.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\PdfSharp.Charting.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\PdfSharp.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Topshelf.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Topshelf.NLog.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\zxing.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\zxing.presentation.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Common.pdb
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Common.dll.config
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Logger.pdb
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Logger.dll.config
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Microsoft.ServiceBus.xml
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\MigraDoc.Rendering.xml
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\MigraDoc.RtfRendering.xml
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\NLog.xml
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\PdfSharp.xml
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\PdfSharp.Charting.xml
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Topshelf.xml
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\Topshelf.NLog.xml
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\zxing.pdb
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\zxing.xml
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\zxing.presentation.pdb
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\zxing.presentation.xml
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\de\PdfSharp.resources.dll
+D:\Work\mentoring\Messaging\ImgScanner\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Work\mentoring\Messaging\ImgScanner\obj\Debug\ImgScanner.csproj.CopyComplete
+D:\Work\mentoring\Messaging\ImgScanner\obj\Debug\ImgScanner.exe
+D:\Work\mentoring\Messaging\ImgScanner\obj\Debug\ImgScanner.pdb
