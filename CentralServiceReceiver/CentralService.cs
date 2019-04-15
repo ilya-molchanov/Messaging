@@ -6,9 +6,9 @@ using Common;
 using Common.Models.Properties;
 using Common.ServiceBus;
 
-namespace ConsoleApp1
+namespace CentralServiceReceiver
 {
-    public class CentralServiceReceiver
+    public class CentralService
     {
         private readonly ManualResetEvent _stopEvent;
         private readonly FileSystemWatcher _watcher;
@@ -30,7 +30,7 @@ namespace ConsoleApp1
             _watcher.EnableRaisingEvents = true;
         }
         
-        public CentralServiceReceiver(string output, string cnString, string infoQueueName, string stateQueueName)
+        public CentralService(string output, string cnString, string infoQueueName, string stateQueueName)
         {
             if (!Directory.Exists(output))
                 Directory.CreateDirectory(output);

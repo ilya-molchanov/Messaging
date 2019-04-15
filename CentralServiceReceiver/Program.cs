@@ -6,7 +6,7 @@ using System.IO;
 using Topshelf;
 using System.Configuration;
 
-namespace ConsoleApp1
+namespace CentralServiceReceiver
 {
     internal class Program
     {
@@ -35,10 +35,10 @@ namespace ConsoleApp1
 
             HostFactory.Run(x =>
             {
-                x.Service<CentralServiceReceiver>(
+                x.Service<CentralService>(
                     conf =>
                     {
-                        conf.ConstructUsing(() => new CentralServiceReceiver(output, cnString, infoQueueName, stateQueueName));
+                        conf.ConstructUsing(() => new CentralService(output, cnString, infoQueueName, stateQueueName));
                         conf.WhenStarted(srv => srv.Start());
                         conf.WhenStopped(srv => srv.Stop());
                     }
